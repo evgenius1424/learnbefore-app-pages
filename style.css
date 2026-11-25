@@ -9,5 +9,4 @@ h2 { font-size: 19px; margin: 24px 0 6px; }
 p, li { margin: 0 0 12px; }
 ul { padding-left: 20px; }
 a { color: var(--link); }
-nav { margin-top: 28px; font-size: 15px; }
-nav a { margin-right: 16px; }
+h3 { font-size: 17px; margin: 20px 0 6px; }
